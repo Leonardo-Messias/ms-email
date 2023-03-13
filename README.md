@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Um microserviço de envio de email é uma aplicação que permite o envio de mensagens de email por meio de uma API, utilizando tecnologias como o Java, o Spring Boot e o Spring Mail.  O Spring Boot é um framework do Spring que facilita a criação de aplicações Java, enquanto o Spring Mail é uma biblioteca que fornece suporte para o envio de email por meio do Spring.</p>
+<p align="left">Criando um microserviço de envio de email é uma aplicação que permite o envio de mensagens de email por meio de uma API, utilizando tecnologias como o Java, o Spring Boot e o Spring Mail.  O Spring Boot é um framework do Spring que facilita a criação de aplicações Java, enquanto o Spring Mail é uma biblioteca que fornece suporte para o envio de email por meio do Spring.</p>
 
 ###
 
