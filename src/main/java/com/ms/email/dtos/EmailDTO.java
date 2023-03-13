@@ -16,4 +16,6 @@ public class EmailDTO {
     private String subject;
     @NotBlank
     private String text;
+    @NotBlank
+    private String ownerRef;
 }
